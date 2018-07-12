@@ -1,0 +1,87 @@
+@charset "utf-8";
+body{
+	position: relative;
+}
+.dangmian{
+	width: 100%;
+	height: 100%;
+}
+.next{
+	width:13.85rem;
+	height:1.9rem;
+	display: inline-block;
+	position: absolute;
+	top:13.675rem;left:1.05rem;
+	border-radius: 7px;
+}
+.shuru{
+	width:13.85rem;
+	height: 1.9rem;
+	position: absolute;
+	top:11.05rem; left:1.05rem;
+	background: #fff;
+	border-radius: 7px;
+	text-align: center;
+	color:#838383;
+}
+.dingdan{
+	width:100%;
+	height: 100%;
+}
+.quxiao{
+	width: 4.1rem;
+	height: 1.275rem;
+	display: inline-block;
+	position: absolute;
+	top:5.47rem; left:3.575rem;
+}
+.tixing{
+	width: 4.1rem;
+	height: 1.275rem;
+	display: inline-block;
+	position: absolute;
+	top:5.47rem; right:3.575rem;
+}
+.again{
+	width: 4.1rem;
+	height: 1.275rem;
+	display: inline-block;
+	position: absolute;
+	top:5.45rem; left:3.6rem;
+}
+.pingjia{
+	width: 4.1rem;
+	height: 1.275rem;
+	display: inline-block;
+	position: absolute;
+	top:5.45rem; right:3.6rem;
+}
+.zhuye img{
+	width: 100%;
+	height: 100%;
+}
+.zhuye a{
+	height: 2.075rem;
+	width: 1.5rem;
+	display: inline-block;
+	position: absolute;
+}
+.waimai{
+	left:2.3rem; top:8.85rem;
+}
+.tanshi{
+	left:7.23rem;top:8.85rem;
+}
+.dangMF{
+	left:12.075rem; top:8.85rem;
+}
+.zhuye .lingqu{
+	width: 2.675rem;
+	height: 0.875rem;
+	left:11.825rem;top:16.975rem;
+}
+.zhuye .dibu{
+	position: fixed;
+	top:25.875rem; left:0;
+	z-index:3;
+}
